@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Arc4he.io"
+title                    : "HectorMJ"
 title_separator          : "-"
 name                     : "Arc4he"
 description              : "Posts about security, CTFs and networking"
